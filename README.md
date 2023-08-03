@@ -1,3 +1,3 @@
 - Hi, I’m @Daniel-programmeur
 -  I made this profile mostly so I can share code samples for job applications.
--  If you want to contact me this you should probably already know how.
+-  If you want to contact me you should probably already know how.
